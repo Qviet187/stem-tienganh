@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Penguin English</title>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    body {
+      background-color: #030712;
+      color: #ffffff;
+      font-family: 'Plus Jakarta Sans', sans-serif;
+      margin: 0; padding: 20px;
+      display: flex; justify-content: center; align-items: center; min-height: 100vh;
+    }
+    .glass-card {
+      background: rgba(17, 24, 39, 0.85);
+      backdrop-filter: blur(16px);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: 24px; padding: 32px;
+      width: 100%; max-width: 500px;
+      box-shadow: 0 20px 40px rgba(0,0,0,0.5);
+      text-align: center; box-sizing: border-box;
+    }
+    input {
+      width: 100%; padding: 12px 16px; margin: 8px 0 16px 0;
+      background: rgba(255, 255, 255, 0.05); border: 1px solid rgba(255, 255, 255, 0.1);
+      border-radius: 12px; color: #fff; font-size: 14px; box-sizing: border-box;
+    }
+    button {
+      width: 100%; padding: 12px;
+      background: linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%);
+      color: white; border: none; border-radius: 12px; font-weight: 700; font-size: 14px;
+      cursor: pointer; transition: transform 0.2s, opacity 0.2s; margin-top: 8px;
+    }
+    button:hover { opacity: 0.9; transform: translateY(-1px); }
+    .btn-outline { background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.15); }
+    .btn-choice { background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.12); text-align: left; padding: 14px; margin-bottom: 8px; }
+    .section { display: none; }
+    .active { display: block; }
+    .badge { background: rgba(59, 130, 246, 0.2); color: #60a5fa; padding: 4px 8px; border-radius: 6px; font-size: 12px; font-weight: bold; }
+    .word-bank, .drop-zone { display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin: 15px 0; min-height: 48px; border-radius: 12px; padding: 8px; }
+    .drop-zone { border: 2px dashed rgba(255,255,255,0.2); }
+    .chip { width: auto; padding: 6px 12px; margin: 0; font-size: 13px; }
+  </style>
+</head>
+<body>
+
+  <div class="glass-card">
+    <!-- 1. MÀN HÌNH ĐĂNG NHẬP -->
+    <div id="sec-login" class="section active">
+      <h2 style="font-size: 26px; margin-bottom: 8px;">🐧 Penguin English</h2>
+      <p style="font-size: 13px; opacity: 0.6; margin-bottom: 20px;">Đăng nhập để tích lũy XP & duy trì Streak</p>
+      <input type="text" id="login-user" placeholder="Tên đăng nhập">
+      <input type="password" id="login-pwd" placeholder="Mật khẩu">
+      <button onclick="handleLogin()">Đăng Nhập Ngay</button>
+      <button class="btn-outline" onclick="showSection('sec-register')">Tạo tài khoản mới</button>
+    </div>
+
+    <!-- 2. MÀN HÌNH ĐĂNG KÝ -->
+    <div id="sec-register" class="section">
+      <h2>📝 Đăng Ký Tài Khoản</h2>
+      <input type="text" id="reg-user" placeholder="Tên đăng nhập mới">
+      <input type="password" id="reg-pwd" placeholder="Mật khẩu">
+      <button onclick="handleRegister()">Hoàn Tất Đăng Ký</button>
+      <button class="btn-outline" onclick="showSection('sec-login')">Trở lại Đăng nhập</button>
+    </div>
+
+    <!-- 3. TRANG CHỦ DASHBOARD -->
+    <div id="sec-dashboard" class="section">
+      <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom: 20px;">
+        <div style="text-align:left;">
+          <h3 id="user-display" style="margin:0;">👋 Chào bạn!</h3>
+          <p style="margin:4px 0 0 0; font-size:12px; opacity:0.6;">Streak: <span id="user-streak">1</span> 🔥 | XP: <span id="user-xp">0</span> ⚡</p>
+        </div>
+        <button onclick="logout()" class="chip btn-outline" style="color:#f87171;">Thoát 🚪</button>
+      </div>
+
+      <div style="background: rgba(59, 130, 246, 0.1); border: 1px solid rgba(59, 130, 246, 0.3); border-radius: 14px; padding: 14px; margin-bottom: 20px; text-align: left;">
+        <div style="font-size: 13px; font-weight: 700; color: #60a5fa;">🧠 Ôn tập Spaced Repetition</div>
+        <div style="font-size: 13px; opacity: 0.9;">Sẵn sàng ôn tập từ vựng thông minh ngắt quãng.</div>
+      </div>
+
+      <button onclick="startPractice()" style="background: linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%);">📖 Luyện Flashcard</button>
+      <button onclick="startQuiz()" style="background: linear-gradient(135deg, #10b981 0%, #047857 100%);">⚡ Trắc Nghiệm Ôn Tập</button>
+      <button onclick="startSentence()" style="background: linear-gradient(135deg, #8b5cf6 0%, #6d28d9 100%);">🧩 Sắp Xếp Câu</button>
+      <button onclick="showLeaderboard()" class="btn-outline">🏆 Bảng Xếp Hạng XP</button>
+    </div>
+
+    <!-- 4. Luyện Flashcard -->
+    <div id="sec-practice" class="section">
+      <h2 style="color: #60a5fa;">📖 Flashcard Từ Vựng</h2>
+      <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.1); border-radius: 20px; padding: 20px; margin: 15px 0;">
+        <h1 id="fc-word" style="font-size: 32px; margin: 0;">Word</h1>
+        <div id="fc-pronun" style="color: #93c5fd; margin: 8px 0;">/pronunciation/</div>
+        <button onclick="speakCurrentWord()" class="chip btn-outline" style="margin-bottom:10px;">🔊 Nghe phát âm</button>
+        <hr style="border-color: rgba(255,255,255,0.1);">
+        <div id="fc-meaning" style="font-size: 18px; color: #34d399; font-weight: bold; margin-bottom: 6px;">Nghĩa của từ</div>
+        <div id="fc-example" style="font-size: 13px; opacity: 0.8; font-style: italic;">"Ví dụ"</div>
+      </div>
+      <button onclick="nextFlashcard()">Từ Tiếp Theo ➡</button>
+      <button onclick="saveCurrentWord()" class="btn-outline" style="color:#fbbf24;">🔖 Lưu Vào Sổ Tay</button>
+      <button onclick="showSection('sec-dashboard')" class="btn-outline">⬅ Quay lại Dashboard</button>
+    </div>
+
+    <!-- 5. Trắc nghiệm -->
+    <div id="sec-quiz" class="section">
+      <h2 style="color: #34d399;">⚡ Trắc Nghiệm Spaced Repetition</h2>
+      <div style="background: rgba(52, 211, 153, 0.08); border: 1px solid rgba(52, 211, 153, 0.2); border-radius: 16px; padding: 16px; margin-bottom: 15px;">
+        <div id="quiz-word" style="font-size: 24px; font-weight: 800;">Word</div>
+        <div id="quiz-pronun" style="font-size: 13px; color: #34d399;">/pronun/</div>
+      </div>
+      <div id="quiz-choices"></div>
+      <p id="quiz-msg" style="font-weight:bold;"></p>
+      <button onclick="showSection('sec-dashboard')" class="btn-outline">⬅ Quay lại Dashboard</button>
+    </div>
+
+    <!-- 6. Sắp xếp câu -->
+    <div id="sec-sentence" class="section">
+      <h2 style="color: #8b5cf6;">🧩 Sắp Xếp Câu</h2>
+      <p id="st-hint" style="font-size: 13px; opacity: 0.8; font-style: italic;"></p>
+      <div id="st-drop" class="drop-zone"></div>
+      <div id="st-bank" class="word-bank"></div>
+      <button onclick="checkSentence()" style="background: linear-gradient(135deg, #8b5cf6 0%, #6d28d9 100%);">Nộp Bài</button>
+      <button onclick="resetSentence()" class="btn-outline">🔄 Làm Lại</button>
+      <p id="st-msg" style="font-weight:bold;"></p>
+      <button onclick="showSection('sec-dashboard')" class="btn-outline">⬅ Quay lại Dashboard</button>
+    </div>
+
+    <!-- 7. Bảng xếp hạng -->
+    <div id="sec-leaderboard" class="section">
+      <h2>🏆 Bảng Xếp Hạng XP</h2>
+      <div id="lb-list" style="text-align: left; margin: 15px 0;"></div>
+      <button onclick="showSection('sec-dashboard')" class="btn-outline">⬅ Quay lại Dashboard</button>
+    </div>
+
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
+
