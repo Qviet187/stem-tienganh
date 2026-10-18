@@ -1,0 +1,1038 @@
+[
+    {
+        "id": 1,
+        "unit": "Unit 1",
+        "word": "antibiotic",
+        "type": "n",
+        "pronunciation": "/ˌæntibaɪˈɒtɪk/",
+        "meaning": "thuốc kháng sinh",
+        "example": "The doctor prescribed an antibiotic for her throat infection."
+    },
+    {
+        "id": 2,
+        "unit": "Unit 1",
+        "word": "bacteria",
+        "type": "n",
+        "pronunciation": "/bækˈtɪəriə/",
+        "meaning": "vi khuẩn",
+        "example": "Soap and water help kill harmful bacteria on your hands."
+    },
+    {
+        "id": 3,
+        "unit": "Unit 1",
+        "word": "balanced",
+        "type": "adj",
+        "pronunciation": "/ˈbælənst/",
+        "meaning": "cân đối, cân bằng",
+        "example": "It is important to eat a balanced diet every day."
+    },
+    {
+        "id": 4,
+        "unit": "Unit 1",
+        "word": "cut down on",
+        "type": "",
+        "pronunciation": "/kʌt ˈdaʊn ɒn/",
+        "meaning": "cắt giảm",
+        "example": "You should cut down on sugary drinks to stay healthy."
+    },
+    {
+        "id": 5,
+        "unit": "Unit 1",
+        "word": "diameter",
+        "type": "n",
+        "pronunciation": "/daɪˈæmɪtə(r)/",
+        "meaning": "đường kính",
+        "example": "The tree trunk has a diameter of 50 centimeters."
+    },
+    {
+        "id": 6,
+        "unit": "Unit 1",
+        "word": "disease",
+        "type": "n",
+        "pronunciation": "/dɪˈziːz/",
+        "meaning": "bệnh",
+        "example": "Vaccines can protect people against many dangerous diseases."
+    },
+    {
+        "id": 7,
+        "unit": "Unit 1",
+        "word": "energy",
+        "type": "n",
+        "pronunciation": "/ˈenədʒi/",
+        "meaning": "năng lượng",
+        "example": "Children usually have a lot of energy in the morning."
+    },
+    {
+        "id": 8,
+        "unit": "Unit 1",
+        "word": "examine",
+        "type": "v",
+        "pronunciation": "/ɪɡˈzæmɪn/",
+        "meaning": "kiểm tra, khám (sức khoẻ)",
+        "example": "The nurse will examine your eyes during the check-up."
+    },
+    {
+        "id": 9,
+        "unit": "Unit 1",
+        "word": "fitness",
+        "type": "n",
+        "pronunciation": "/ˈfɪtnəs/",
+        "meaning": "sự khoẻ khoắn",
+        "example": "Regular exercise is essential for maintaining physical fitness."
+    },
+    {
+        "id": 10,
+        "unit": "Unit 1",
+        "word": "food poisoning",
+        "type": "n",
+        "pronunciation": "/ˈfuːd ˌpɔɪzənɪŋ/",
+        "meaning": "ngộ độc thức ăn",
+        "example": "Eating expired seafood can cause severe food poisoning."
+    },
+    {
+        "id": 11,
+        "unit": "Unit 1",
+        "word": "germ",
+        "type": "n",
+        "pronunciation": "/dʒɜːm/",
+        "meaning": "vi trùng",
+        "example": "Always wash your hands before eating to get rid of germs."
+    },
+    {
+        "id": 12,
+        "unit": "Unit 1",
+        "word": "give up",
+        "type": "",
+        "pronunciation": "/ɡɪv ʌp/",
+        "meaning": "từ bỏ",
+        "example": "Never give up when you face difficult challenges."
+    },
+    {
+        "id": 13,
+        "unit": "Unit 1",
+        "word": "illness",
+        "type": "n",
+        "pronunciation": "/ˈɪlnəs/",
+        "meaning": "sự ốm đau",
+        "example": "She took a week off work due to a sudden illness."
+    },
+    {
+        "id": 14,
+        "unit": "Unit 1",
+        "word": "infection",
+        "type": "n",
+        "pronunciation": "/ɪnˈfekʃn/",
+        "meaning": "sự lây nhiễm",
+        "example": "Keep the wound clean to prevent any infection."
+    },
+    {
+        "id": 15,
+        "unit": "Unit 1",
+        "word": "ingredient",
+        "type": "n",
+        "pronunciation": "/ɪnˈɡriːdiənt/",
+        "meaning": "thành phần, nguyên liệu",
+        "example": "Fresh vegetables are the key ingredient in this salad."
+    },
+    {
+        "id": 16,
+        "unit": "Unit 1",
+        "word": "life expectancy",
+        "type": "n",
+        "pronunciation": "/ˈlaɪf ɪkˌspektənsi/",
+        "meaning": "tuổi thọ",
+        "example": "Better healthcare has increased the average life expectancy."
+    },
+    {
+        "id": 17,
+        "unit": "Unit 1",
+        "word": "muscle",
+        "type": "n",
+        "pronunciation": "/ˈmʌsl/",
+        "meaning": "cơ bắp",
+        "example": "Weightlifting helps build strength and muscle mass."
+    },
+    {
+        "id": 18,
+        "unit": "Unit 1",
+        "word": "nutrient",
+        "type": "n",
+        "pronunciation": "/ˈnuːtriənt/",
+        "meaning": "chất dinh dưỡng",
+        "example": "Milk provides essential nutrients like calcium for bones."
+    },
+    {
+        "id": 19,
+        "unit": "Unit 1",
+        "word": "organism",
+        "type": "n",
+        "pronunciation": "/ˈɔːɡənɪzəm/",
+        "meaning": "sinh vật, thực thể sống",
+        "example": "Every living organism adapts to its environment."
+    },
+    {
+        "id": 20,
+        "unit": "Unit 1",
+        "word": "press-up",
+        "type": "n",
+        "pronunciation": "/ˈpres ʌp/",
+        "meaning": "động tác chống đẩy",
+        "example": "He can easily do thirty press-ups in one minute."
+    },
+    {
+        "id": 21,
+        "unit": "Unit 1",
+        "word": "properly",
+        "type": "adv",
+        "pronunciation": "/ˈprɒpəli/",
+        "meaning": "một cách điều độ, hợp lí",
+        "example": "Make sure your computer is turned off properly."
+    },
+    {
+        "id": 22,
+        "unit": "Unit 1",
+        "word": "recipe",
+        "type": "n",
+        "pronunciation": "/ˈresəpi/",
+        "meaning": "công thức nấu ăn",
+        "example": "My grandmother shared her secret apple pie recipe with me."
+    },
+    {
+        "id": 23,
+        "unit": "Unit 1",
+        "word": "regular",
+        "type": "adj",
+        "pronunciation": "/ˈreɡjʊlə(r)/",
+        "meaning": "đều đặn, thường xuyên",
+        "example": "Regular exercise keeps your heart healthy."
+    },
+    {
+        "id": 24,
+        "unit": "Unit 1",
+        "word": "spread",
+        "type": "n",
+        "pronunciation": "/spred/",
+        "meaning": "sự lây lan",
+        "example": "The government took measures to stop the spread of the virus."
+    },
+    {
+        "id": 25,
+        "unit": "Unit 1",
+        "word": "star jump",
+        "type": "np",
+        "pronunciation": "/ˈstɑː(r) dʒʌmp/",
+        "meaning": "động tác nhảy dạng tay chân",
+        "example": "The coach asked us to do twenty star jumps as a warm-up."
+    },
+    {
+        "id": 26,
+        "unit": "Unit 1",
+        "word": "strength",
+        "type": "n",
+        "pronunciation": "/streŋθ/",
+        "meaning": "sức mạnh",
+        "example": "Running a marathon requires great physical strength."
+    },
+    {
+        "id": 27,
+        "unit": "Unit 1",
+        "word": "suffer",
+        "type": "v",
+        "pronunciation": "/ˈsʌfə(r)/",
+        "meaning": "chịu đựng",
+        "example": "Many people suffer from allergies in the spring."
+    },
+    {
+        "id": 28,
+        "unit": "Unit 1",
+        "word": "treatment",
+        "type": "n",
+        "pronunciation": "/ˈtriːtmənt/",
+        "meaning": "cách điều trị",
+        "example": "Early diagnosis allows for more effective medical treatment."
+    },
+    {
+        "id": 29,
+        "unit": "Unit 1",
+        "word": "tuberculosis",
+        "type": "n",
+        "pronunciation": "/tjuːˌbɜːkjuˈləʊsɪs/",
+        "meaning": "bệnh lao phổi",
+        "example": "Tuberculosis is a contagious bacterial lung infection."
+    },
+    {
+        "id": 30,
+        "unit": "Unit 1",
+        "word": "virus",
+        "type": "n",
+        "pronunciation": "/ˈvaɪrəs/",
+        "meaning": "vi-rút",
+        "example": "Antivirus software protects your computer from malicious programs."
+    },
+    {
+        "id": 31,
+        "unit": "Unit 1",
+        "word": "work out",
+        "type": "",
+        "pronunciation": "/wɜːk aʊt/",
+        "meaning": "tập thể dục",
+        "example": "I like to work out at the gym three times a week."
+    },
+    {
+        "id": 32,
+        "unit": "Unit 2",
+        "word": "adapt",
+        "type": "v",
+        "pronunciation": "/əˈdæpt/",
+        "meaning": "thích nghi, thay đổi cho phù hợp",
+        "example": "Animals must adapt to survive in cold climates."
+    },
+    {
+        "id": 33,
+        "unit": "Unit 2",
+        "word": "argument",
+        "type": "n",
+        "pronunciation": "/ˈɑːɡjumənt/",
+        "meaning": "tranh luận, tranh cãi",
+        "example": "They had a long argument about who should wash the dishes."
+    },
+    {
+        "id": 34,
+        "unit": "Unit 2",
+        "word": "characteristic",
+        "type": "n",
+        "pronunciation": "/ˌkærəktəˈrɪstɪk/",
+        "meaning": "đặc tính, đặc điểm",
+        "example": "Patience is a key characteristic of a good teacher."
+    },
+    {
+        "id": 35,
+        "unit": "Unit 2",
+        "word": "conflict",
+        "type": "n",
+        "pronunciation": "/ˈkɒnflɪkt/",
+        "meaning": "sự xung đột, va chạm",
+        "example": "Open communication helps resolve family conflicts peacefully."
+    },
+    {
+        "id": 36,
+        "unit": "Unit 2",
+        "word": "curious",
+        "type": "adj",
+        "pronunciation": "/ˈkjʊəriəs/",
+        "meaning": "tò mò, muốn tìm hiểu",
+        "example": "Children are naturally curious about the world around them."
+    },
+    {
+        "id": 37,
+        "unit": "Unit 2",
+        "word": "digital native",
+        "type": "n",
+        "pronunciation": "/ˌdɪdʒɪtl ˈneɪtɪv/",
+        "meaning": "người được sinh ra ở thời đại công nghệ và Internet",
+        "example": "As a digital native, she easily learns new software."
+    },
+    {
+        "id": 38,
+        "unit": "Unit 2",
+        "word": "experience",
+        "type": "n, v",
+        "pronunciation": "/ɪkˈspɪəriəns/",
+        "meaning": "trải nghiệm",
+        "example": "Traveling to a foreign country is an unforgettable experience."
+    },
+    {
+        "id": 39,
+        "unit": "Unit 2",
+        "word": "extended family",
+        "type": "n",
+        "pronunciation": "/ɪkˌstendɪd ˈfæməli/",
+        "meaning": "gia đình đa thế hệ, đại gia đình",
+        "example": "My extended family gathers for dinner every major holiday."
+    },
+    {
+        "id": 40,
+        "unit": "Unit 2",
+        "word": "freedom",
+        "type": "n",
+        "pronunciation": "/ˈfriːdəm/",
+        "meaning": "sự tự do",
+        "example": "Citizens enjoy freedom of speech and expression."
+    },
+    {
+        "id": 41,
+        "unit": "Unit 2",
+        "word": "generation gap",
+        "type": "n",
+        "pronunciation": "/ˌdʒenəˈreɪʃn ɡæp/",
+        "meaning": "khoảng cách giữa các thế hệ",
+        "example": "Talks and shared activities help bridge the generation gap."
+    },
+    {
+        "id": 42,
+        "unit": "Unit 2",
+        "word": "hire",
+        "type": "v",
+        "pronunciation": "/ˈhaɪə(r)/",
+        "meaning": "thuê nhân công, thuê người làm",
+        "example": "The company plans to hire five new engineers next month."
+    },
+    {
+        "id": 43,
+        "unit": "Unit 2",
+        "word": "honesty",
+        "type": "n",
+        "pronunciation": "/ˈɒnəsti/",
+        "meaning": "tính trung thực, thực tính, chân thật",
+        "example": "Honesty is always the best policy in any relationship."
+    },
+    {
+        "id": 44,
+        "unit": "Unit 2",
+        "word": "individualism",
+        "type": "n",
+        "pronunciation": "/ˌɪndɪˈvɪduəlɪzəm/",
+        "meaning": "chủ nghĩa cá nhân",
+        "example": "Western societies often emphasize individualism and self-reliance."
+    },
+    {
+        "id": 45,
+        "unit": "Unit 2",
+        "word": "influence",
+        "type": "v",
+        "pronunciation": "/ˈɪnfluəns/",
+        "meaning": "gây ảnh hưởng",
+        "example": "Her teachers greatly influenced her career choice."
+    },
+    {
+        "id": 46,
+        "unit": "Unit 2",
+        "word": "limit",
+        "type": "v",
+        "pronunciation": "/ˈlɪmɪt/",
+        "meaning": "giới hạn, hạn chế",
+        "example": "Doctors recommend that you limit your daily sugar intake."
+    },
+    {
+        "id": 47,
+        "unit": "Unit 2",
+        "word": "nuclear family",
+        "type": "n",
+        "pronunciation": "/ˌnjuːkliə ˈfæməli/",
+        "meaning": "gia đình hạt nhân, gia đình nhỏ gồm 1-2 thế hệ",
+        "example": "A nuclear family typically consists of parents and children."
+    },
+    {
+        "id": 48,
+        "unit": "Unit 2",
+        "word": "screen time",
+        "type": "n",
+        "pronunciation": "/ˈskriːn taɪm/",
+        "meaning": "thời gian sử dụng thiết bị điện tử",
+        "example": "Parents should monitor and limit children's daily screen time."
+    },
+    {
+        "id": 49,
+        "unit": "Unit 2",
+        "word": "social media",
+        "type": "n",
+        "pronunciation": "/ˌsəʊʃl ˈmiːdiə/",
+        "meaning": "phương tiện truyền thông mạng xã hội",
+        "example": "Many businesses use social media to advertise products."
+    },
+    {
+        "id": 50,
+        "unit": "Unit 2",
+        "word": "value",
+        "type": "n, v",
+        "pronunciation": "/ˈvæljuː/",
+        "meaning": "giá trị, coi trọng",
+        "example": "Good education has a high value in our society."
+    },
+    {
+        "id": 51,
+        "unit": "Unit 2",
+        "word": "view",
+        "type": "n",
+        "pronunciation": "/vjuː/",
+        "meaning": "quan điểm",
+        "example": "Everyone is entitled to express their personal view."
+    },
+    {
+        "id": 52,
+        "unit": "Unit 3",
+        "word": "article",
+        "type": "n",
+        "pronunciation": "/ˈɑːtɪkl/",
+        "meaning": "bài báo",
+        "example": "She wrote an informative article about renewable energy."
+    },
+    {
+        "id": 53,
+        "unit": "Unit 3",
+        "word": "card reader",
+        "type": "n",
+        "pronunciation": "/ˈkɑːd riːdə(r)/",
+        "meaning": "thiết bị đọc thẻ",
+        "example": "Use the card reader to pay for your subway ticket."
+    },
+    {
+        "id": 54,
+        "unit": "Unit 3",
+        "word": "city dweller",
+        "type": "np",
+        "pronunciation": "/ˈsɪti ˈdwelə(r)/",
+        "meaning": "người dân thành phố",
+        "example": "Every city dweller enjoys visiting parks on weekends."
+    },
+    {
+        "id": 55,
+        "unit": "Unit 3",
+        "word": "cycle path",
+        "type": "n",
+        "pronunciation": "/ˈsaɪkl pɑːθ/",
+        "meaning": "làn đường dành cho xe đạp",
+        "example": "The new cycle path makes commuting safer for cyclists."
+    },
+    {
+        "id": 56,
+        "unit": "Unit 4",
+        "word": "efficiently",
+        "type": "adv",
+        "pronunciation": "/ɪˈfɪʃntli/",
+        "meaning": "có hiệu quả",
+        "example": "Modern machines help farmers work more efficiently."
+    },
+    {
+        "id": 57,
+        "unit": "Unit 4",
+        "word": "high-rise",
+        "type": "adj",
+        "pronunciation": "/ˈhaɪ raɪz/",
+        "meaning": "cao tầng, có nhiều tầng",
+        "example": "New high-rise buildings dominate the modern skyline."
+    },
+    {
+        "id": 58,
+        "unit": "Unit 4",
+        "word": "infrastructure",
+        "type": "n",
+        "pronunciation": "/ˈɪnfrəstrʌktʃə(r)/",
+        "meaning": "cơ sở hạ tầng",
+        "example": "The city invested heavily in public transport infrastructure."
+    },
+    {
+        "id": 59,
+        "unit": "Unit 4",
+        "word": "interact",
+        "type": "v",
+        "pronunciation": "/ˌɪntərˈækt/",
+        "meaning": "tương tác",
+        "example": "Students interact with each other during group activities."
+    },
+    {
+        "id": 60,
+        "unit": "Unit 4",
+        "word": "liveable",
+        "type": "adj",
+        "pronunciation": "/ˈlɪvəbl/",
+        "meaning": "đáng sống",
+        "example": "Clean parks and low crime rates make this city very liveable."
+    },
+    {
+        "id": 61,
+        "unit": "Unit 4",
+        "word": "neighbourhood",
+        "type": "n",
+        "pronunciation": "/ˈneɪbəhʊd/",
+        "meaning": "khu dân cư",
+        "example": "We live in a quiet and friendly neighbourhood."
+    },
+    {
+        "id": 62,
+        "unit": "Unit 4",
+        "word": "operate",
+        "type": "v",
+        "pronunciation": "/ˈɒpəreɪt/",
+        "meaning": "vận hành",
+        "example": "He knows how to operate heavy machinery safely."
+    },
+    {
+        "id": 63,
+        "unit": "Unit 4",
+        "word": "pedestrian",
+        "type": "adj",
+        "pronunciation": "/pəˈdestriən/",
+        "meaning": "dành cho người đi bộ",
+        "example": "This downtown street is a pedestrian zone on weekends."
+    },
+    {
+        "id": 64,
+        "unit": "Unit 4",
+        "word": "privacy",
+        "type": "n",
+        "pronunciation": "/ˈprɪvəsi/",
+        "meaning": "sự riêng tư",
+        "example": "Everyone deserves a certain amount of privacy at home."
+    },
+    {
+        "id": 65,
+        "unit": "Unit 4",
+        "word": "roof garden",
+        "type": "n",
+        "pronunciation": "/ruːf ɡɑːdn/",
+        "meaning": "vườn trên sân thượng",
+        "example": "They planted vegetables in their rooftop garden."
+    },
+    {
+        "id": 66,
+        "unit": "Unit 4",
+        "word": "sense of community",
+        "type": "np",
+        "pronunciation": "/sens əv kəˈmjuːnəti/",
+        "meaning": "ý thức cộng đồng",
+        "example": "Neighborhood block parties foster a strong sense of community."
+    },
+    {
+        "id": 67,
+        "unit": "Unit 4",
+        "word": "sensor",
+        "type": "n",
+        "pronunciation": "/ˈsensə(r)/",
+        "meaning": "cảm biến",
+        "example": "The automatic doors use a motion sensor to open."
+    },
+    {
+        "id": 68,
+        "unit": "Unit 4",
+        "word": "skyscraper",
+        "type": "n",
+        "pronunciation": "/ˈskaɪskreɪpə(r)/",
+        "meaning": "toà nhà chọc trời",
+        "example": "The landmark skyscraper stands tall in the business district."
+    },
+    {
+        "id": 69,
+        "unit": "Unit 4",
+        "word": "smart city",
+        "type": "np",
+        "pronunciation": "/smɑːt ˈsɪti/",
+        "meaning": "thành phố thông minh",
+        "example": "Sensors and digital tech are used to build a smart city."
+    },
+    {
+        "id": 70,
+        "unit": "Unit 4",
+        "word": "sustainable",
+        "type": "adj",
+        "pronunciation": "/səˈsteɪnəbl/",
+        "meaning": "bền vững",
+        "example": "Solar and wind energy are sustainable power sources."
+    },
+    {
+        "id": 71,
+        "unit": "Unit 4",
+        "word": "traffic jam",
+        "type": "n",
+        "pronunciation": "/ˈtræfɪk dʒæm/",
+        "meaning": "giao thông tắc nghẽn",
+        "example": "I was stuck in a massive traffic jam this morning."
+    },
+    {
+        "id": 72,
+        "unit": "Unit 4",
+        "word": "urban centre",
+        "type": "np",
+        "pronunciation": "/ˈɜːbən ˈsentə(r)/",
+        "meaning": "khu đô thị, trung tâm đô thị",
+        "example": "Millions of people commute to the urban centre daily."
+    },
+    {
+        "id": 73,
+        "unit": "Unit 4",
+        "word": "apply",
+        "type": "v",
+        "pronunciation": "/əˈplaɪ/",
+        "meaning": "xin việc, ứng cử",
+        "example": "She decided to apply for a marketing position."
+    },
+    {
+        "id": 74,
+        "unit": "Unit 4",
+        "word": "celebration",
+        "type": "n",
+        "pronunciation": "/ˌselɪˈbreɪʃn/",
+        "meaning": "lễ kỉ niệm, lễ tổ chức",
+        "example": "The town held a grand celebration for its founding anniversary."
+    },
+    {
+        "id": 75,
+        "unit": "Unit 4",
+        "word": "community",
+        "type": "n",
+        "pronunciation": "/kəˈmjuːnəti/",
+        "meaning": "cộng đồng",
+        "example": "Volunteers work together to help local community members."
+    },
+    {
+        "id": 76,
+        "unit": "Unit 4",
+        "word": "compliment",
+        "type": "n",
+        "pronunciation": "/ˈkɒmplɪmənt/",
+        "meaning": "lời khen",
+        "example": "She thanked him for the wonderful compliment on her presentation."
+    },
+    {
+        "id": 77,
+        "unit": "Unit 4",
+        "word": "contribution",
+        "type": "n",
+        "pronunciation": "/ˌkɒntrɪˈbjuːʃn/",
+        "meaning": "sự đóng góp, cống hiến",
+        "example": "His contribution to science was recognized worldwide."
+    },
+    {
+        "id": 78,
+        "unit": "Unit 4",
+        "word": "cultural exchange",
+        "type": "np",
+        "pronunciation": "/ˈkʌltʃərəl ɪksˈtʃeɪndʒ/",
+        "meaning": "sự trao đổi văn hoá",
+        "example": "Study abroad programs promote international cultural exchange."
+    },
+    {
+        "id": 79,
+        "unit": "Unit 4",
+        "word": "current",
+        "type": "adj",
+        "pronunciation": "/ˈkʌrənt/",
+        "meaning": "hiện tại, đương đại",
+        "example": "Keep yourself informed about current economic trends."
+    },
+    {
+        "id": 80,
+        "unit": "Unit 4",
+        "word": "development",
+        "type": "n",
+        "pronunciation": "/dɪˈveləpmənt/",
+        "meaning": "sự phát triển",
+        "example": "Technology plays a crucial role in economic development."
+    },
+    {
+        "id": 81,
+        "unit": "Unit 4",
+        "word": "eye-opening",
+        "type": "adj",
+        "pronunciation": "/ˈaɪ əʊpənɪŋ/",
+        "meaning": "mở mang tầm mắt",
+        "example": "Traveling abroad was an eye-opening experience for him."
+    },
+    {
+        "id": 82,
+        "unit": "Unit 4",
+        "word": "honour",
+        "type": "v",
+        "pronunciation": "/ˈɒnə(r)/",
+        "meaning": "thể hiện sự kính trọng",
+        "example": "We gather to honour the heroes of our nation."
+    },
+    {
+        "id": 83,
+        "unit": "Unit 4",
+        "word": "issue",
+        "type": "n",
+        "pronunciation": "/ˈɪʃuː/",
+        "meaning": "vấn đề",
+        "example": "Climate change is a pressing global issue."
+    },
+    {
+        "id": 84,
+        "unit": "Unit 4",
+        "word": "leadership skills",
+        "type": "np",
+        "pronunciation": "/ˈliːdəʃɪp skɪlz/",
+        "meaning": "kĩ năng lãnh đạo",
+        "example": "Group projects help students develop leadership skills."
+    },
+    {
+        "id": 85,
+        "unit": "Unit 4",
+        "word": "live-stream",
+        "type": "v",
+        "pronunciation": "/ˈlaɪv striːm/",
+        "meaning": "phát sóng trực tuyến",
+        "example": "Musicians often live-stream their concerts for fans."
+    },
+    {
+        "id": 86,
+        "unit": "Unit 4",
+        "word": "politics",
+        "type": "n",
+        "pronunciation": "/ˈpɒlətɪks/",
+        "meaning": "chính trị",
+        "example": "He has always been deeply interested in national politics."
+    },
+    {
+        "id": 87,
+        "unit": "Unit 4",
+        "word": "promote",
+        "type": "v",
+        "pronunciation": "/prəˈməʊt/",
+        "meaning": "thúc đẩy, khuyến mại, quảng bá",
+        "example": "The company launched an ad campaign to promote the new car."
+    },
+    {
+        "id": 88,
+        "unit": "Unit 4",
+        "word": "proposal",
+        "type": "n",
+        "pronunciation": "/prəˈpəʊzl/",
+        "meaning": "lời/bản đề xuất",
+        "example": "The committee reviewed the project proposal and approved it."
+    },
+    {
+        "id": 89,
+        "unit": "Unit 4",
+        "word": "propose",
+        "type": "v",
+        "pronunciation": "/prəˈpəʊz/",
+        "meaning": "đề xuất",
+        "example": "She will propose a new schedule at tomorrow's meeting."
+    },
+    {
+        "id": 90,
+        "unit": "Unit 5",
+        "word": "atmosphere",
+        "type": "n",
+        "pronunciation": "/ˈætməsfɪə(r)/",
+        "meaning": "khí quyển",
+        "example": "Greenhouse gases trap heat in Earth's atmosphere."
+    },
+    {
+        "id": 91,
+        "unit": "Unit 5",
+        "word": "balance",
+        "type": "n",
+        "pronunciation": "/ˈbæləns/",
+        "meaning": "sự cân bằng",
+        "example": "It is important to maintain a work-life balance."
+    },
+    {
+        "id": 92,
+        "unit": "Unit 5",
+        "word": "carbon dioxide",
+        "type": "n",
+        "pronunciation": "/ˌkɑːbən daɪˈɒksaɪd/",
+        "meaning": "khí carbonic (CO2)",
+        "example": "Trees absorb carbon dioxide and release oxygen."
+    },
+    {
+        "id": 93,
+        "unit": "Unit 5",
+        "word": "coal",
+        "type": "n",
+        "pronunciation": "/kəʊl/",
+        "meaning": "than đá",
+        "example": "Power plants burn coal to generate electricity."
+    },
+    {
+        "id": 94,
+        "unit": "Unit 5",
+        "word": "consequence",
+        "type": "n",
+        "pronunciation": "/ˈkɒnsɪkwəns/",
+        "meaning": "hậu quả, kết quả",
+        "example": "Pollution has severe consequences for marine life."
+    },
+    {
+        "id": 95,
+        "unit": "Unit 5",
+        "word": "cut down",
+        "type": "",
+        "pronunciation": "/kʌt daʊn/",
+        "meaning": "chặt, đốn (cây)",
+        "example": "Illegal logging causes people to cut down rainforest trees."
+    },
+    {
+        "id": 96,
+        "unit": "Unit 5",
+        "word": "deforestation",
+        "type": "n",
+        "pronunciation": "/diːˌfɒrɪˈsteɪʃn/",
+        "meaning": "sự phá rừng",
+        "example": "Deforestation threatens the habitats of many wild animals."
+    },
+    {
+        "id": 97,
+        "unit": "Unit 5",
+        "word": "emission",
+        "type": "n",
+        "pronunciation": "/ɪˈmɪʃn/",
+        "meaning": "sự phát thải",
+        "example": "Electric cars help reduce carbon emissions in cities."
+    },
+    {
+        "id": 98,
+        "unit": "Unit 5",
+        "word": "environment",
+        "type": "n",
+        "pronunciation": "/ɪnˈvaɪrənmənt/",
+        "meaning": "môi trường",
+        "example": "We must protect the environment for future generations."
+    },
+    {
+        "id": 99,
+        "unit": "Unit 5",
+        "word": "farming",
+        "type": "n",
+        "pronunciation": "/ˈfɑːmɪŋ/",
+        "meaning": "nghề nông",
+        "example": "Organic farming avoids harmful chemical pesticides."
+    },
+    {
+        "id": 100,
+        "unit": "Unit 5",
+        "word": "farmland",
+        "type": "n",
+        "pronunciation": "/ˈfɑːmlænd/",
+        "meaning": "đất chăn nuôi / trồng trọt",
+        "example": "Forests are sometimes cleared to create agricultural farmland."
+    },
+    {
+        "id": 101,
+        "unit": "Unit 5",
+        "word": "fossil fuel",
+        "type": "n",
+        "pronunciation": "/ˈfɒsl fjuːəl/",
+        "meaning": "nhiên liệu hoá thạch",
+        "example": "Burning fossil fuels contributes significantly to global warming."
+    },
+    {
+        "id": 102,
+        "unit": "Unit 5",
+        "word": "global warming",
+        "type": "n",
+        "pronunciation": "/ˌɡləʊbl ˈwɔːmɪŋ/",
+        "meaning": "sự nóng lên toàn cầu",
+        "example": "Melting ice caps are a visible sign of global warming."
+    },
+    {
+        "id": 103,
+        "unit": "Unit 5",
+        "word": "heat-trapping",
+        "type": "adj",
+        "pronunciation": "/hiːt ˈtræpɪŋ/",
+        "meaning": "giữ nhiệt",
+        "example": "Carbon dioxide is a major heat-trapping gas in the air."
+    },
+    {
+        "id": 104,
+        "unit": "Unit 5",
+        "word": "human activity",
+        "type": "np",
+        "pronunciation": "/ˌhjuːmən ækˈtɪvəti/",
+        "meaning": "hoạt động của con người",
+        "example": "Many environmental problems stem from human activity."
+    },
+    {
+        "id": 105,
+        "unit": "Unit 5",
+        "word": "impact",
+        "type": "n",
+        "pronunciation": "/ˈɪmpækt/",
+        "meaning": "tác động, ảnh hưởng",
+        "example": "Plastic waste has a devastating impact on oceans."
+    },
+    {
+        "id": 106,
+        "unit": "Unit 5",
+        "word": "leaflet",
+        "type": "n",
+        "pronunciation": "/ˈliːflət/",
+        "meaning": "tờ rơi",
+        "example": "They handed out informational leaflets about recycling."
+    },
+    {
+        "id": 107,
+        "unit": "Unit 5",
+        "word": "methane",
+        "type": "n",
+        "pronunciation": "/ˈmiːθeɪn/",
+        "meaning": "khí methane (CH4)",
+        "example": "Agriculture is a major source of methane emissions."
+    },
+    {
+        "id": 108,
+        "unit": "Unit 5",
+        "word": "pollutant",
+        "type": "n",
+        "pronunciation": "/pəˈluːtənt/",
+        "meaning": "chất gây ô nhiễm",
+        "example": "Factories release harmful pollutants into the river."
+    },
+    {
+        "id": 109,
+        "unit": "Unit 5",
+        "word": "release",
+        "type": "v",
+        "pronunciation": "/rɪˈliːs/",
+        "meaning": "thoát ra, phát thải",
+        "example": "Cars release exhaust gases into the atmosphere."
+    },
+    {
+        "id": 110,
+        "unit": "Unit 5",
+        "word": "renewable",
+        "type": "adj",
+        "pronunciation": "/rɪˈnjuːəbl/",
+        "meaning": "tái tạo",
+        "example": "Solar and wind are renewable sources of energy."
+    },
+    {
+        "id": 111,
+        "unit": "Unit 5",
+        "word": "sea level",
+        "type": "n",
+        "pronunciation": "/ˈsiː levl/",
+        "meaning": "mực nước biển",
+        "example": "Rising temperatures cause global sea levels to rise."
+    },
+    {
+        "id": 112,
+        "unit": "Unit 5",
+        "word": "soil",
+        "type": "n",
+        "pronunciation": "/sɔɪl/",
+        "meaning": "đất trồng",
+        "example": "Healthy soil is essential for growing strong crops."
+    },
+    {
+        "id": 113,
+        "unit": "Unit 5",
+        "word": "soot",
+        "type": "n",
+        "pronunciation": "/sʊt/",
+        "meaning": "mồ hóng, muội, nhọ nồi",
+        "example": "The chimney was blackened with thick layers of soot."
+    },
+    {
+        "id": 114,
+        "unit": "Unit 5",
+        "word": "temperature",
+        "type": "n",
+        "pronunciation": "/ˈtemprətʃə(r)/",
+        "meaning": "nhiệt độ",
+        "example": "Global average temperatures continue to increase."
+    },
+    {
+        "id": 115,
+        "unit": "Unit 5",
+        "word": "waste",
+        "type": "n",
+        "pronunciation": "/weɪst/",
+        "meaning": "rác, chất thải",
+        "example": "We should reduce household waste by recycling more."
+    }
+]
+
